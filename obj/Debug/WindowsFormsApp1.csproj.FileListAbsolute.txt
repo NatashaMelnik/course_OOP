@@ -1,0 +1,33 @@
+C:\Users\Asus K551\Desktop\AAAAAAAAAAAAAAAA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Asus K551\Desktop\AAAAAAAAAAAAAAAA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Asus K551\Desktop\AAAAAAAAAAAAAAAA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resource1.resources
+C:\Users\Asus K551\Desktop\AAAAAAAAAAAAAAAA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Asus K551\Desktop\AAAAAAAAAAAAAAAA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Asus K551\Desktop\AAAAAAAAAAAAAAAA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Asus K551\Desktop\AAAAAAAAAAAAAAAA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Asus K551\Desktop\AAAAAAAAAAAAAAAA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Asus K551\Desktop\AAAAAAAAAAAAAAAA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Asus K551\Desktop\AAAAAAAAAAAAAAAA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Asus K551\Desktop\AAAAAAAAAAAAAAAA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Asus K551\Desktop\готовый курсач\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Asus K551\Desktop\готовый курсач\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Asus K551\Desktop\готовый курсач\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Asus K551\Desktop\готовый курсач\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Asus K551\Desktop\готовый курсач\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Asus K551\Desktop\готовый курсач\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Asus K551\Desktop\готовый курсач\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resource1.resources
+C:\Users\Asus K551\Desktop\готовый курсач\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Asus K551\Desktop\готовый курсач\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Asus K551\Desktop\готовый курсач\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Asus K551\Desktop\готовый курсач\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Asus K551\Desktop\готовый курсач\програма на курсову роботу\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Asus K551\Desktop\готовый курсач\програма на курсову роботу\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Asus K551\Desktop\готовый курсач\програма на курсову роботу\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Asus K551\Desktop\готовый курсач\програма на курсову роботу\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Asus K551\Desktop\готовый курсач\програма на курсову роботу\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Asus K551\Desktop\готовый курсач\програма на курсову роботу\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Asus K551\Desktop\готовый курсач\програма на курсову роботу\obj\Debug\WindowsFormsApp1.Resource1.resources
+C:\Users\Asus K551\Desktop\готовый курсач\програма на курсову роботу\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Asus K551\Desktop\готовый курсач\програма на курсову роботу\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Asus K551\Desktop\готовый курсач\програма на курсову роботу\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Asus K551\Desktop\готовый курсач\програма на курсову роботу\obj\Debug\WindowsFormsApp1.pdb
